@@ -4,7 +4,7 @@ Camille</a></h1>
 
 - 🔭 I’m currently studying at  <a href="https://www.ensea.fr/fr" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
 
-- 🌱 I’m currently searching an internship beginning in April
+- 🌱 I’m currently searching an internship beginning in April 2023
 
 - 🌱 I’m currently learning Electronics and Computer Sciences
 
