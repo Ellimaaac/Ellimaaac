@@ -8,7 +8,7 @@ Camille</a></h1>
 
 - 🌱 I’m learning Electronics and Computer Sciences
 
-- 📝 I'm currently working on a [Multi Effects Guitar Pedal](https://github.com/lucacros/2324_Projet2A_PedaleGuitare) & alot of small project
+- 📝 I'm currently working on a [Multi Effects Guitar Pedal](https://github.com/lucacros/2324_Projet2A_PedaleGuitare) & alot of small projects
 
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
 
