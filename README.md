@@ -6,9 +6,9 @@ Camille</a></h1>
 
 - 🌱 I’m currently searching an internship beginning in April 2023
 
-- 🌱 I’m currently learning Electronics and Computer Sciences
+- 🌱 I’m learning Electronics and Computer Sciences
 
-- 📝 I'm currently working on a [Multi Effects Guitar Pedal](https://github.com/lucacros/2324_Projet2A_PedaleGuitare)
+- 📝 I'm currently working on a [Multi Effects Guitar Pedal](https://github.com/lucacros/2324_Projet2A_PedaleGuitare) & alot of small project
 
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
 
