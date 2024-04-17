@@ -22,7 +22,7 @@ Camille</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ellimaaac/Ellimaaac">
 			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/Cam_LFD/">
+	<a style="margin-left: 5px;" target="_blank" href="https://leetcode.com/Cam_LFD/">
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a>
 </p>
 
