@@ -4,8 +4,6 @@ Camille</a></h1>
 
 - 🔭 I’m currently studying at  <a href="https://www.ensea.fr/fr" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
 
-- 🌱 I’m currently searching an internship beginning in April 2024
-
 - 🌱 I’m learning Electronics and Computer Sciences
 
 - 📝 I'm currently working on UWB algorithms at Sapienza University of Roma
