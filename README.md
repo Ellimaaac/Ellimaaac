@@ -6,7 +6,7 @@ Camille</a></h1>
 
 - 🌱 I’m learning Electronics and Computer Sciences
 
-- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma (if you to check my work :[UWB-Algorithms](Ellimaaac/UWB-Algorithms-on-MATLAB))
+- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma (if you to check my work :[UWB-Algorithms](UWB-Algorithms-on-MATLAB))
 
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
 
