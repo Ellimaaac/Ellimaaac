@@ -2,13 +2,14 @@
 Camille</a></h1>
 
 
-- 🔭 I’m currently studying at  <a href="https://www.ensea.fr/fr" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
+- 🔭 I’m currently doing a double diploma at <a href="https://www.ensea.fr/fr" target="blank">Grenoble Ecole de Management</a>
 
-- 🌱 I’m learning Electronics and Computer Sciences
+- 🔭 I'm studying at  <a href="https://www.grenoble-em.com/" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
 
-- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma
+<!--- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma-->
 
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
+
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
