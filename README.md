@@ -9,8 +9,8 @@
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
 <h2 align="center">  
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellimaaac&hide_progress=true" style="width: 400px; height: auto;" alt="Top Langs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellimaaac&theme=default" style="width: 475px; height: auto;" alt="Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellimaaac&hide_progress=true" style="width: 300px; height: auto;" alt="Top Langs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellimaaac&theme=default" style="width: 375px; height: auto;" alt="Streak Stats">
   </div>
 </h2>
 
