@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Camille</a></h1>
 
-- 📝 I’m currently doing a double diploma at <a href="https://www.ensea.fr/fr" target="blank">Grenoble Ecole de Management</a>, in Managing with Data and AI
+- 📝 I’m currently doing a double diploma at <a href="https://www.ensea.fr/fr" target="blank">Grenoble Ecole de Management</a>, in Data and AI
 
 - 🌱 I'm studying at  <a href="https://www.grenoble-em.com/" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
 
