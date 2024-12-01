@@ -7,6 +7,9 @@
 <!--- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma-->
 
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
+
+---
+
 <h2 align="center">  
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellimaaac&hide_progress=true" style="width: 300px; height: auto;" alt="Top Langs">
