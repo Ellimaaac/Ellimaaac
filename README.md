@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Camille</a></h1>
 
+---
+
+- 🛠️ **Electronic Engineer** by profession.  
+- 📚 **Data Scientist, Analyst, and Dataset Creator** by passion.  
+- 📜 **Curator of Historical Data for osu!** — I create **datasets** focused on preserving the **game’s history**, **player statistics**, and **memorable moments** for research and documentation.
+
+
+---
+
 - 📝 I’m currently doing a double diploma at <a href="https://www.ensea.fr/fr" target="blank">Grenoble Ecole de Management</a>, in Data and AI
-
 - 🌱 I'm studying at  <a href="https://www.grenoble-em.com/" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
-
-<!--- 📝 I'm currently working on UWB algorithms at Sapienza University of Roma-->
-
 - 📫 How to reach me **camille.lanfredi@ensea.fr**
 
 ---
+
+
 
 <h2 align="center">  
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
