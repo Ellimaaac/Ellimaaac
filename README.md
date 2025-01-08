@@ -3,8 +3,7 @@
 ---
 
 - 🛠️ **Electronic Engineer** by profession.  
-- 📚 **Data Scientist, Analyst, and Dataset Creator** by passion.  
-- 📜 **Curator of Historical Data for osu!** — I create **datasets** focused on preserving the **game’s history**, **player statistics**, and **memorable moments** for research and documentation. (available here and on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
+- 📚 **Data Scientist, Analyst, and Dataset Creator** by passion. (available here and on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
 
 ---
