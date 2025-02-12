@@ -5,16 +5,7 @@
 - 🛠️ **Electronic, ML and AI Engineer** by profession.  
 - 📚 **Data Scientist, Analyst, and Dataset Creator** by passion. (available here and on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
-
 ---
-
-- 📝 I’m currently doing a double diploma at <a href="https://www.ensea.fr/fr" target="blank">Grenoble Ecole de Management</a>, in Data and AI
-- 🌱 I'm studying at  <a href="https://www.grenoble-em.com/" target="blank">Ecole Nationale Supérieure de l'Electronique et de Ses Applications</a>
-- 📫 How to reach me **camille.lanfredi@ensea.fr**
-
----
-
-
 
 <h2 align="center">  
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
