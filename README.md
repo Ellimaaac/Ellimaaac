@@ -2,7 +2,7 @@
 
 ---
 
-- 🛠️ **Electronic, ML and AI Engineer** by profession.  
+- 🛠️ **Electronic,Telecom, ML and AI Engineer** by profession.  
 - 📚 **Data Scientist, Analyst, and Dataset Creator** by passion. (available here and on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
 ---
