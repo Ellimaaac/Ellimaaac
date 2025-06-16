@@ -3,7 +3,7 @@
 ---
 - [My Website](https://ellimaaac.github.io/) (under construction)
 - 🛠️ **Electronic Engineer**  
-- 📚 **Data Scientist, Analyst, and Dataset Creator**(available here and on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
+- 📚 **Data Scientist, Analyst, and Dataset Creator**(available on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
 ---
 
