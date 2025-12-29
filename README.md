@@ -2,7 +2,6 @@
 
 ---
 ### About Me : 
-Currently enrolled in a double master’s program in Engineering and Management at [ENSEA](https://www.ensea.fr/) et [GEM](https://www.grenoble-em.com/)
 - 🛠️ **Electronic Engineer, specialized in Radio Frequency & Hyper Frequency**  
 - 📚 **Data Scientist, Analyst, and Dataset Creator** (available on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
