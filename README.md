@@ -8,7 +8,8 @@
 - 🛠️ **Electronic Engineer, specialized in Radio Frequency & Hyper Frequency**  
 - 📚 **Data Scientist, Analyst, and Dataset Creator** (available on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 
- ### Last Project : 
+ ### Lasts Projects : 
+ 
 [Grenoble Alpes Metropole Assistant](https://gem-gam-sdd.streamlit.app/): The "Camille - Grenoble Alpes Metropole Assistant" project, developed using Python and Streamlit, offers a bilingual chatbot interface that provides real-time waste management guidance for Grenoble Alpes Metropole, significantly enhancing local waste management efficiency.
 [Repo](https://github.com/tovajav/gem_gam_sdd)
 
