@@ -16,12 +16,6 @@ Project focused on the design, simulation, and performance analysis of a printed
 
 ---
 
-<h2 align="center">  
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellimaaac&line=bf00ff&color=a420d0&title_color=a420d0&area_color=bf00ff&point=cf00ff&bg_color=18142a&radius=8&height=360&area=true&hide_border=true" width="100%">
-
-  </div>
-</h2>
-
 <h3 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
     Connect with me 🤝
