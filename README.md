@@ -9,7 +9,7 @@
 - 📚 **Data Scientist, Analyst, and Dataset Creator** (available on [Kaggle](https://www.kaggle.com/ellimaaac/datasets/))
 - 🎶 **Audiophile** on weekends
 
- ### Last Project : 
+ ### Lasts Projects : 
 
 **Electronic Beam Steering Printed Patch Antenna**:
 Project focused on the design, simulation, and performance analysis of a printed patch antenna with electronic beam steering, including electromagnetic modeling, radiation pattern evaluation, gain, and impedance matching for RF and wireless communication applications.[Repo](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique)
